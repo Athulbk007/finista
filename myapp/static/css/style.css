@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+
+.bt input{
+    background: rgb(36,0,31);
+    background: linear-gradient(90deg, rgb(147, 242, 64) 0%, rgb(175, 124, 201) 35%, rgba(0,212,255,1) 100%);
+    width: 100px;
+    height:50px ;
+    border-radius: 20px;
+    color: white;
+}
